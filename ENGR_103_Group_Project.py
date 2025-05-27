@@ -159,6 +159,10 @@ def text_doc_convert(text_doc_name):
     return phrategory_list
 
 
+def user_guess():
+    guess = input("Guess a letter from A - Z: ")
+    return(guess)
+
 def main():
 
     # Gets text_doc from user, convert to capitalized list of phrases
