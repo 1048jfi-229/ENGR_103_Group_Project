@@ -5,7 +5,7 @@
 # Description: Play Wheel of Fortune and guess your own custom phrases!
 # Input: Text file, player name, player game decisions
 # Output: User scores, game events, ending winstate, game stats
-#######################################################################
+######################################################################
 
 
 # Pseudocode
